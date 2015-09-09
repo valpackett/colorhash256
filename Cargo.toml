@@ -1,0 +1,17 @@
+[package]
+name = "colorhash256"
+version = "0.1.0"
+authors = [ "Greg V <greg@unrelenting.technology>" ]
+keywords = [ "Security", "Password", "Hashing", "Colors" ]
+description = "Like Chroma-Hash, but with ANSI terminal colors."
+license = "Unlicense"
+readme = "README.md"
+homepage = "https://github.com/myfreeweb/colorhash256"
+repository = "https://github.com/myfreeweb/colorhash256"
+documentation = "https://myfreeweb.github.io/autodocs/colorhash256/colorhash256"
+
+[lib]
+name = "colorhash256"
+
+[dependencies]
+sodiumoxide = "*"
