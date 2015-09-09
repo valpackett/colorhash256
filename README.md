@@ -10,8 +10,8 @@ A [Rust] library that's like [Chroma-Hash], but with ANSI terminal colors.
 ```rust
 extern crate colorhash256;
 
-let ansi = ::colorhash256::hash_as_ansi(b"Correct Horse Battery Staple");
-let rgb = ::colorhash256::hash_as_rgb(b"Correct Horse Battery Staple");
+let ansi = colorhash256::hash_as_ansi(b"Correct Horse Battery Staple");
+let rgb = colorhash256::hash_as_rgb(b"Correct Horse Battery Staple");
 ```
 
 ## Contributing
