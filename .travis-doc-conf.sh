@@ -1,3 +1,0 @@
-PROJECT_NAME=colorhash256
-DOCS_REPO=myfreeweb/autodocs.git
-SSH_KEY_TRAVIS_ID=b36a042efbfd
