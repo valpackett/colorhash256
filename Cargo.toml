@@ -14,4 +14,4 @@ documentation = "https://myfreeweb.github.io/autodocs/colorhash256/colorhash256"
 name = "colorhash256"
 
 [dependencies]
-tiny-keccak = { git = "https://github.com/quininer/tiny-keccak.git", branch = "no_std" }
+tiny-keccak = "^1.1.1"
